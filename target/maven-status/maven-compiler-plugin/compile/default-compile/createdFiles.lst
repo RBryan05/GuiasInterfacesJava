@@ -8,10 +8,13 @@ Lambdas\lamdaApp.class
 com\mycompany\borrador1\ImplementacionClase2.class
 Lambdas\Prueba1.class
 Lambdas\AppGenerica.class
+Lambdas\Serializacion2.class
 Services\IPrinter.class
 Modelos\Modelo2.class
 Services\ServicesBD2.class
 Lambdas\ScopeVariable.class
 com\mycompany\borrador1\Borrador1$1.class
+Lambdas\Person.class
 com\mycompany\borrador1\ImplementarClassInterfaz.class
 Services\IMath.class
+Lambdas\funcionEjemplo.class
