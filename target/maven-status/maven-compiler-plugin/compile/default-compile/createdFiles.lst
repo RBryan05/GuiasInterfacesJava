@@ -1,14 +1,17 @@
 Modelos\EjemploTipo1.class
 com\mycompany\borrador1\Borrador1.class
 Lambdas\LambdasFor.class
+Lambdas\OperadorDeReferencia.class
 Services\InterfaceBD1.class
 Lambdas\lamdaApp$1.class
 Lambdas\lamdaApp.class
 com\mycompany\borrador1\ImplementacionClase2.class
+Lambdas\Prueba1.class
 Lambdas\AppGenerica.class
 Services\IPrinter.class
 Modelos\Modelo2.class
 Services\ServicesBD2.class
+Lambdas\ScopeVariable.class
 com\mycompany\borrador1\Borrador1$1.class
 com\mycompany\borrador1\ImplementarClassInterfaz.class
 Services\IMath.class
